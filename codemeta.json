@@ -11,7 +11,7 @@
         "HTML",
         "CSS"
     ],
-    "author": [
+    "schema:owner": [
         {
             "@type": "Organization",
             "@id": "https://github.com/SoftwareUnderstanding"
